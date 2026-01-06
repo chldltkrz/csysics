@@ -17,7 +17,7 @@ const updateMeta = (t) => {
 
   const desc = currentLang === 'en'
     ? "CSYSICS combines Computer Science and Physics to build high-performance digital apps, cloud infrastructure, and backend systems."
-    : "CSYSICS는 컴퓨터 과학과 물리학을 융합하여 고성능 앱 개발, 클라우드 인프라, 서버 백엔드 시스템을 구축합니다.";
+    : "CSYSICS는 컴퓨터 과학과 물리학을 융합하여 디지털 경험, 클라우드 인프라, 고성능 백엔드 시스템을 설계합니다.";
 
   document.querySelector('meta[name="description"]').setAttribute("content", desc);
   document.querySelector('meta[property="og:description"]').setAttribute("content", desc);
