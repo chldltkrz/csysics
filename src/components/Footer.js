@@ -18,7 +18,7 @@ export const Footer = (t) => `
             <strong style="color: var(--color-text); display: block; margin-bottom: 0.5rem;">${t.footer.companyInfo}</strong>
             <p>${t.footer.ceo}</p>
             <p>${t.footer.address}</p>
-            <p>Business License: [Business License Number]</p>
+            <p>Business License: 710-34-01552</p>
           </div>
 
         </div>
