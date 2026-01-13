@@ -10,7 +10,7 @@ export const Footer = (t) => `
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; border-top: 1px solid #333; padding-top: 2rem;">
           <div>
             <strong style="color: var(--color-text); display: block; margin-bottom: 0.5rem;">${t.footer.contactInfo}</strong>
-            <p>Email: ceo@csysics.com</p>
+            <p>Email: csysics@csysics.com</p>
             <p>Mobile: 010-5725-2222</p>
             <p>Fax: 0504-159-1421</p>
           </div>
