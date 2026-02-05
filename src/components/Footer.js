@@ -12,13 +12,14 @@ export const Footer = (t) => `
             <strong style="color: var(--color-text); display: block; margin-bottom: 0.5rem;">${t.footer.contactInfo}</strong>
             <p>Email: csysics@csysics.com</p>
             <p>Mobile: 010-5725-2222</p>
-            <p>Fax: 0504-159-1421</p>
+            <p>Fax: 050-4159-1421</p>
           </div>
           <div>
             <strong style="color: var(--color-text); display: block; margin-bottom: 0.5rem;">${t.footer.companyInfo}</strong>
             <p>${t.footer.ceo}</p>
             <p>${t.footer.address}</p>
-            <p>Business License: 710-34-01552</p>
+            <p>${t.footer.businessLicense}: 710-34-01552</p>
+            <p>${t.footer.ecommerce}: 2026-서울마포-0235</p>
           </div>
 
         </div>

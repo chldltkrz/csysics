@@ -44,6 +44,8 @@ export const translations = {
             companyInfo: "Company Info",
             ceo: "Representative: Choi Issac (최이삭)",
             address: "Address: Yeonnamro-3gil 28-12 102Ho, Mapo-gu, Seoul, Republic of Korea (03988)",
+            businessLicense: "Business License",
+            ecommerce: "E-Commerce Registration",
             rights: "© 2026 CSYSICS. All rights reserved."
         }
     },
@@ -92,6 +94,8 @@ export const translations = {
             companyInfo: "회사 정보",
             ceo: "대표: 최이삭",
             address: "주소: 서울특별시 마포구 연남로3길 28-12 102호 (03988)",
+            businessLicense: "사업자등록번호",
+            ecommerce: "통신판매번호",
             rights: "© 2026 CSYSICS. All rights reserved."
         }
     }
